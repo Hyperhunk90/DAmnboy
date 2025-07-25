@@ -1,5 +1,4 @@
-import React, { useState }, { X } from 'lucide-react';
-
+import React, { useState, X } from 'lucide-react';
 const PortfolioSection = () => {
   const [activeFilter, setActiveFilter] = useState('all');
   const [lightboxImage, setLightboxImage] = useState(null);
