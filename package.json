@@ -8,10 +8,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    "engines": {
-  "node": ">=20.0.0 <21"
-}
-
+  },
+  "engines": {
+    "node": ">=20.0.0 <21"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
